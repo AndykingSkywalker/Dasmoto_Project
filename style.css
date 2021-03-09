@@ -11,7 +11,7 @@ h1 {
     font-weight: bold;
     color: blue;
 }
-
+h3,
 p {
     font-family: Helvetica;
 }
@@ -22,4 +22,20 @@ p {
     font-weight: bold;
     color: white; 
     background-color: mediumspringgreen;
+}
+
+#frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white; 
+    background-color:lightcoral;
+}
+
+#paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white; 
+    background-color:skyblue;
 }
